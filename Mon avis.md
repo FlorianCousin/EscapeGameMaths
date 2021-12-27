@@ -7,3 +7,8 @@
 `<script src="jeu_evasion.js"></script>`
 
 D'où vient ce fichier `jeu_evasion.js` ?
+
+# Javascript
+
+Sais-tu qu'il y a déjà du javascript dans le fichier ?
+Le javascript est contenu dans les balises `<script>`.
