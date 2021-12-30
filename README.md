@@ -6,3 +6,7 @@ Chaque chiffre du code est à trouver dans des énigmes mathématiques répartie
 # Public visé
 
 Les énigmes sont à destination d'élèves de sixième.
+
+# Lancement
+
+Il suffit de télécharger les fichiers et d'ouvrir le fichier HTML avec un navigateur.
